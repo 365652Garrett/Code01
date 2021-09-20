@@ -1,0 +1,11 @@
+<!-- <link rel="stylesheet" href="../css/styles.css"/> -->
+<!-- set default style on each webpage -->
+
+<!-- use <style></style> to apply an individual style -->
+<!-- p {color="blue"} sets all paragraphs to blue -->
+<!-- example of a link to another page <nav><a href="src/index02.html"> text02</a> </nav> -->
+<!-- add a picture --> 
+  <figure>
+    <figcaption>deez nuts</figcaption>
+    <img alt="chungus" width="1280"  src="../img/ripchungyboi.jpg">
+  </figure>
