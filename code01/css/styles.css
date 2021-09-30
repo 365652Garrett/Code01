@@ -1,0 +1,9 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
+p {color: rgb(0, 247, 255); }
+figure {border:1px solid rgb(0, 238, 255); background-color: lightslategray;}
+figcaption {font-size: 200%;text-align: center; background-color: lightslategray;}
+* {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+#bg {background: url(../img/bgblue.jpg); background-repeat: no-repeat; background-size: cover;}
+.material-icons.md-48 { font-size: 128px;}
+li {list-style-image: url(../img/list_icon.png);}
+p {font-style: oblique 45deg; font-weight: 900;}
